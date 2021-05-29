@@ -1,0 +1,3 @@
+# This is a project that will going solve issues in to HackerHank by myself :smile:
+
+> But isn't guarantee which i'll go complete in any time...
